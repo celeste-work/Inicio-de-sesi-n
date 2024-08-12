@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montaga&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{box-sizing: border-box;}
+
+form h2{font-family:"Mulish", sans-serif; font-weight: 700; font-size: 24px; color: #04146c;}
+
+form{width: 500px; margin: auto; border: 2px solid #d7ddff; text-align: center; padding: 0 20px; box-sizing: content-box;}
+
+input,button{width: 500px; height: 50px; margin-bottom: 10px; padding: 10px; display: block;}
+
+input{font-family:"Mulish", sans-serif; font-size: 18px;font-weight: 400; color: #414166;}
+
+button{font-family:"Mulish", sans-serif; font-size: 20px; font-weight: 600; background-color: #0a2ff1; color: #f8f5f5;}
+
+p,a{font-family:"Mulish", sans-serif; font-size: 18px; font-weight: 400; color: #0a2ff1}
+
+hr{margin: 20px 0;}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
